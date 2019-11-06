@@ -1,3 +1,3 @@
 # Demo-Merge-Conflicts2
 
-by Don Welch
+simple demo by Don Welch, Sep 2019
